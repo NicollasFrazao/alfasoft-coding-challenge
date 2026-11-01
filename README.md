@@ -4,7 +4,7 @@ A Laravel 10 web app for managing contacts (name, e-mail, phone). It uses an Adm
 
 ## Context
 
-Solution to the hiring challenge of Alfasoft (2025). The challenge statement is kept in Portuguese in [`CHALLENGE.md`](CHALLENGE.md). In short: a CRUD app for contacts with a public list, login for every other action, soft deletes, unique e-mail and phone, and tests for form-validation errors.
+Solution to the hiring challenge of Alfasoft (2025). The challenge statement is kept in Portuguese in [`docs/challenge.md`](docs/challenge.md). In short: a CRUD app for contacts with a public list, login for every other action, soft deletes, unique e-mail and phone, and tests for form-validation errors.
 
 ## What it does
 
